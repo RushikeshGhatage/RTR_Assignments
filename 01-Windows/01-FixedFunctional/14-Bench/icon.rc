@@ -1,0 +1,4 @@
+#include "icon.h"
+MYICON ICON RVG.ico
+TEXTURE_WOOD BITMAP Texture_Wood.bmp
+

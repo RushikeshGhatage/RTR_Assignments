@@ -1,0 +1,9 @@
+#include "icon.h"
+MYICON ICON RVG.ico
+TEXTURE_POLE BITMAP Texture_Pole.bmp
+TEXTURE_BASE BITMAP Texture_Base.bmp
+TEXTURE_BOX BITMAP Texture_Box.bmp
+TEXTURE_SPEAKER1 BITMAP Texture_Speaker1.bmp
+TEXTURE_SPEAKER2 BITMAP Texture_Speaker2.bmp
+TEXTURE_BACK BITMAP Texture_Back.bmp
+
