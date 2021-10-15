@@ -1,0 +1,5 @@
+#include "OGL.h"
+MYICON ICON RVG.ico
+MARBLE_BITMAP BITMAP MARBLE.bmp
+
+
