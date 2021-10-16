@@ -1,0 +1,53 @@
+Found Number of FBConfig = 10
+Framebuffer Config : 0
+Visual ID : 36
+Sample Buffer : 0
+Sample : 0
+-------------------------------------
+Framebuffer Config : 1
+Visual ID : 122
+Sample Buffer : 0
+Sample : 0
+-------------------------------------
+Framebuffer Config : 2
+Visual ID : 56
+Sample Buffer : 1
+Sample : 2
+-------------------------------------
+Framebuffer Config : 3
+Visual ID : 142
+Sample Buffer : 1
+Sample : 2
+-------------------------------------
+Framebuffer Config : 4
+Visual ID : 58
+Sample Buffer : 1
+Sample : 4
+-------------------------------------
+Framebuffer Config : 5
+Visual ID : 144
+Sample Buffer : 1
+Sample : 4
+-------------------------------------
+Framebuffer Config : 6
+Visual ID : 68
+Sample Buffer : 1
+Sample : 8
+-------------------------------------
+Framebuffer Config : 7
+Visual ID : 154
+Sample Buffer : 1
+Sample : 8
+-------------------------------------
+Framebuffer Config : 8
+Visual ID : 76
+Sample Buffer : 1
+Sample : 16
+-------------------------------------
+Framebuffer Config : 9
+Visual ID : 162
+Sample Buffer : 1
+Sample : 16
+-------------------------------------
+Best Frame Buffer Config : 8
+Rendering Context is Direct Hardware Rendering Context.
