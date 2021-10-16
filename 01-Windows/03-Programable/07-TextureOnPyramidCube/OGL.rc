@@ -1,0 +1,4 @@
+#include "OGL.h"
+MYICON ICON RVG.ico
+STONE_BITMAP BITMAP Stone.bmp
+KUNDALI_BITMAP BITMAP Kundali.bmp

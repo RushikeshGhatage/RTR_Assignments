@@ -1,0 +1,6 @@
+PER VERTEX : Vertex Shader Compilation is done Successfully.
+PER VERTEX : Fragment Shader Compilation is done Successfully.
+PER VERTEX : Program Shader Object Compilation is done Successfully.
+PER FRAGMENT : Vertex Shader Compilation is done Successfully.
+PER FRAGMENT : Fragment Shader Compilation is done Successfully.
+PER FRAGMENT : Program Shader Object Compilation is done Successfully.
