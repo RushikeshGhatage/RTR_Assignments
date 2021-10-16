@@ -1,0 +1,47 @@
+Log File Is Successfully Opened!
+D3D11CreateDeviceAndSwapChain() Succeeded.
+The Chosen Driver is Of Hardware Type.
+The Supported Highest Feature Level is 11.0.
+
+D3DCompile() Succeeded for Vertex Shader.
+ID3D11Device::CreateVertexShader() Succeeded!
+
+D3DCompile() Succeeded for Pixel Shader.
+ID3D11Device::CreatePixelShader() Succeeded!
+
+ID3D11Device::CreateInputLayout() Succeeded!
+
+ID3D11Device::CreateBuffer() Succeeded for Position of Pyramid Vertex Buffer!
+ID3D11Device::CreateBuffer() Succeeded for Position of Pyramid Constant Buffer!
+
+ID3D11Device::CreateBuffer() Succeeded for Color of Pyramid Vertex Buffer!
+ID3D11Device::CreateBuffer() Succeeded for Color of Pyramid Constant Buffer!
+
+ID3D11Device::CreateBuffer() Succeeded for Position of Cube Vertex Buffer!
+ID3D11Device::CreateBuffer() Succeeded for Position of Cube Constant Buffer!
+
+ID3D11Device::CreateBuffer() Succeeded for Color of Cube Vertex Buffer!
+ID3D11Device::CreateBuffer() Succeeded for Color of Cube Constant Buffer!
+
+ID3D11Device::CreateRasterizerState() Succeeded!
+
+ID3D11Device::CreateRenderTargetView() Succeeded.
+ID3D11Device::CreateTexture2D() in Depth Succeeded.
+ID3D11Device::CreateDepthStencilView() in Depth Succeeded.
+
+resize() Succeeded.
+initialize() Succeeded.
+ID3D11Device::CreateRenderTargetView() Succeeded.
+ID3D11Device::CreateTexture2D() in Depth Succeeded.
+ID3D11Device::CreateDepthStencilView() in Depth Succeeded.
+resize() Succeeded.
+ID3D11Device::CreateRenderTargetView() Succeeded.
+ID3D11Device::CreateTexture2D() in Depth Succeeded.
+ID3D11Device::CreateDepthStencilView() in Depth Succeeded.
+resize() Succeeded.
+ID3D11Device::CreateRenderTargetView() Succeeded.
+ID3D11Device::CreateTexture2D() in Depth Succeeded.
+ID3D11Device::CreateDepthStencilView() in Depth Succeeded.
+resize() Succeeded.
+uninitialize() Succeeded.
+Log File is Successfully Closed!
